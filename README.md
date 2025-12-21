@@ -1,11 +1,22 @@
 ### void0x14
 
-Industrial automation enthusiast. Focusing on high-performance Python architectures, computer vision pipelines, and system hardening protocols.
-
-Currently building **PROJECT_REFINERY**, a specialized video deduplication engine designed for massive archival integrity.
+Security enthusiast and automation developer. My work focuses on building resilient systems, optimizing media encoding pipelines, and developing health-monitoring protocols.
 
 ---
 
--   **Focus:** Automation, System Architecture, Python
--   **Current:** PROJECT_REFINERY (v4.1)
--   **Contact:** [GitHub Issues only]
+### 🛡️ Active Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **PROJECT_REFINERY** | Industrial-grade video deduplication engine with strict pHash validation. | `Python` `SQLite` `FFmpeg` |
+| **System Hardening Protocol** | Comprehensive bio-metric tracking and discipline system (Web & Mobile). | `HTML/JS` `React Native` |
+| **CPU_AV1_ENCODE** | High-efficiency video encoding automation for massive archives. | `Python` `SVT-AV1` |
+
+---
+
+### 🔧 Technical Focus
+-   **Cybersecurity:** System hardening, threat modeling, digital hygiene.
+-   **Automation:** Building tools to eliminate repetitive workflows.
+-   **Media Engineering:** AV1 encoding, perceptual hashing, metadata analysis.
+
+> *"Systems are only as secure as their weakest link."*
