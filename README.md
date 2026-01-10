@@ -1,34 +1,55 @@
-### void0x14
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=435&lines=root%40void0x14%3A~%23+init_protocol;Analyzing+Traffic...;System+Hardening+Active...;Welcome+to+the+Void." alt="Typing SVG" />
+</div>
 
-**Aspiring Security Architect & Data Engineer.**
+<div align="center">
+  <br />
+  <code>Cyber Security Researcher</code> | <code>Traffic Analyst</code> | <code>Linux Enthusiast</code>
+  <br /><br />
 
-I am not just interested in how to break a system, but how to design one that survives. My passion lies at the intersection of **Cybersecurity Architecture**, **Data Orchestration**, and **AI Integration**.
+  <img src="https://img.shields.io/badge/System-CachyOS-000000?style=for-the-badge&logo=archlinux&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Analysis-Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Network-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Lang-Python-000000?style=for-the-badge&logo=python&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Shell-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=10B981" />
+</div>
 
-I specialize in "Dataset Engineering" and creating autonomous workflows. I thrive on overcoming hardware constraints to build efficient, intelligent systems that connect the dots between raw data and actionable intelligence.
+<br />
 
----
+### ⚡ System Philosophy (Manifesto)
 
-### 🧠 Core Philosophy
-> *"The Architect sees the building, the Builder sees the bricks."*
-> I aim to orchestrate systems where Security, Data, and AI work in unison.
+> *"The Architect sees the building, the Builder sees the bricks. I see the cracks in the foundation."*
 
-### 🔭 Research & Focus Areas
-*   **Security Architecture:** Designing resilient infrastructures and defense protocols (Blue Team focus).
-*   **Data Engineering:** Collecting, sanitizing, and categorizing massive datasets for future AI models.
-*   **AI Integration:** implementing LLMs and efficient inference engines into everyday workflows despite hardware constraints.
-*   **Low-Level Curiosity:** An admiration for Reverse Engineering and Hardware security fundamentals.
-
----
-
-### 🏗️ Architectural Projects
-
-| System | Role | Design Goal |
-| :--- | :--- | :--- |
-| **PROJECT_REFINERY** | **Data Architect** | Building an industrial-grade data sanitation engine to ensure absolute integrity in video archives. |
-| **System Hardening Protocol** | **Policy Designer** | A comprehensive "Human-CI/CD" pipeline for bio-metric tracking and discipline enforcement. |
-| **CPU_AV1_ENCODE** | **Workflow Engineer** | Designing automated, high-efficiency encoding pipelines optimized for CPU-bound environments. |
+My work focuses on the invisible layers of the web. I specialize in **Traffic Analysis**, **Reverse Engineering**, and **Offensive Defense**. I don't just use tools; I analyze how they interact with the kernel and the network stack.
 
 ---
 
-### ⚡ Toolkit
-`Python (Architecture)` `Data Analysis` `Threat Modeling` `Process Automation` `System Hardening`
+### 📡 Operational Roadmap
+
+| Status | Timeline | Focus Area |
+| :---: | :--- | :--- |
+| ⚫ | **2020-2023** | **Traffic Analysis Origins:** SSL Unpinning, API Discovery, WAF Evasion Logic. |
+| 🟢 | **2026 (NOW)** | **Advanced Pentesting:** SQLi/XSS Labs, Linux Hardening, Cloud Security Architecture. |
+| 🔒 | **2027+** | **Red Team Operations:** Enterprise Architecture & Offensive Simulations. |
+
+---
+
+### 🛠️ Active Research
+
+- **Web Application Security:** Deep dive into SQL Injection vectors and XSS payloads.
+- **Linux Hardening:** Optimizing CachyOS/Arch for maximum security and minimal latency.
+- **Network Forensics:** analyzing packet flows to detect anomalies.
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=void0x14&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=10B981&icon_color=10B981&text_color=ffffff" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=void0x14&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=10B981&text_color=ffffff" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br />
+  <code>Location: Ankara [ONLINE] // Elazığ [OFFLINE]</code>
+  <br />
+  <code>System Integrity: 100%</code>
+</div>
