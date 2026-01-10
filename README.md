@@ -43,13 +43,10 @@ My work focuses on the invisible layers of the web. I specialize in **Traffic An
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=void0x14&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=10B981&icon_color=10B981&text_color=ffffff" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=void0x14&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=10B981&text_color=ffffff" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br />
-  <code>Location: Ankara [ONLINE] // Elazığ [OFFLINE]</code>
-  <br />
-  <code>System Integrity: 100%</code>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=void0x14&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=10B981&icon_color=10B981&text_color=ffffff" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void0x14&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=10B981&text_color=ffffff" />
+  </a>
 </div>
