@@ -7,11 +7,11 @@
   <code>Cyber Security Researcher</code> | <code>Traffic Analyst</code> | <code>Linux Enthusiast</code>
   <br /><br />
 
-  <img src="https://img.shields.io/badge/System-CachyOS-000000?style=for-the-badge&logo=archlinux&logoColor=10B981" />
-  <img src="https://img.shields.io/badge/Analysis-Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=10B981" />
-  <img src="https://img.shields.io/badge/Network-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=10B981" />
-  <img src="https://img.shields.io/badge/Lang-Python-000000?style=for-the-badge&logo=python&logoColor=10B981" />
-  <img src="https://img.shields.io/badge/Shell-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=10B981" />
+  ![System](https://img.shields.io/badge/System-CachyOS-000000?style=for-the-badge&logo=archlinux&logoColor=10B981)
+  ![Analysis](https://img.shields.io/badge/Analysis-Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=10B981)
+  ![Network](https://img.shields.io/badge/Network-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=10B981)
+  ![Lang](https://img.shields.io/badge/Lang-Python-000000?style=for-the-badge&logo=python&logoColor=10B981)
+  ![Shell](https://img.shields.io/badge/Shell-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=10B981)
 </div>
 
 <br />
@@ -44,8 +44,8 @@ My work focuses on the invisible layers of the web. I specialize in **Traffic An
 
 <div align="center">
 
-[![Void's GitHub Stats](https://github-readme-stats.vercel.app/api?username=void0x14&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=10B981&icon_color=10B981&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=void0x14&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=ffffff)
 
-[![Void's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=void0x14&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=10B981&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=void0x14&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=ffffff)
 
 </div>
