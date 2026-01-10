@@ -38,15 +38,14 @@ My work focuses on the invisible layers of the web. I specialize in **Traffic An
 
 - **Web Application Security:** Deep dive into SQL Injection vectors and XSS payloads.
 - **Linux Hardening:** Optimizing CachyOS/Arch for maximum security and minimal latency.
-- **Network Forensics:** analyzing packet flows to detect anomalies.
+- **Network Forensics:** Analyzing packet flows to detect anomalies.
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=void0x14&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=10B981&icon_color=10B981&text_color=ffffff" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=void0x14&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=10B981&text_color=ffffff" />
-  </a>
+
+[![Void's GitHub Stats](https://github-readme-stats.vercel.app/api?username=void0x14&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=10B981&icon_color=10B981&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Void's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=void0x14&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=10B981&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
