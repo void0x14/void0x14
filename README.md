@@ -68,6 +68,32 @@ A browser architecture stripped of commercial telemetry, utilizing kernel-level 
     * **Memory Arbitrage:** A shared memory page architecture to reduce RAM overhead per tab by 60%.
 </details>
 
+<details>
+<summary><b>6. Project: Fettanego.net (Adversary Intelligence & Deception)</b></summary>
+<br>
+An offensive deception environment designed to trap, analyze, and exploit the resources of automated botnets and human threat actors.
+
+* **Public Scope:** Deployment of high-interaction honeypots (HIH) for global threat intelligence gathering and malware archiving.
+* **Technical Depth:**
+    * **Payload Harvesting & Sandbox Orchestration:** Automated exfiltration of dropped binaries (ELF/PE) from SSH/Telnet and HTTP traps, followed by isolated execution for behavioral analysis.
+    * **C2 Infrastructure Mapping:** Heuristic-based analysis of outbound telemetry to identify and map Command & Control (C2) nodes, enabling proactive counter-intelligence.
+    * **Credential Siphoning:** Real-time capture of private "combo" lists and wordlists used by attackers during brute-force attempts to build proprietary security databases.
+    * **Active Deception (Canary Logic):** Implementation of "Canary Tokens" and fake database assets to induce self-de-anonymization of attackers upon data exfiltration.
+</details>
+
+<details>
+<summary><b>7. Project: Project-Oculus-OSS (Ophthalmic Hardware Liberation)</b></summary>
+<br>
+A strategic reverse-engineering initiative focused on liberating corneal diagnostic data from closed-loop, proprietary medical hardware through advanced computer vision.
+
+* **Public Scope:** Research on sub-pixel biometric tracking and open-source diagnostic alternatives for corneal topography.
+* **Technical Depth:**
+    * **Sub-Pixel Biometric Extraction:** Real-time pupil and limbus detection using custom Hough transforms and edge-cascading algorithms for high-precision centration.
+    * **Optical Wavefront Reconstruction:** Implementation of Zernike polynomials to model high-order aberrations and refractive power distribution from raw corneal reflections.
+    * **Hardware Protocol Decoupling:** Reverse-engineering proprietary USB/Serial data streams and DICOM-hacker modules to bypass vendor-locked medical ecosystems.
+    * **Neural Diagnostic Intelligence:** Geometric deep learning architectures designed for early-stage Keratoconus detection and irregular surface mapping.
+    * **Void-Protocol Integrity:** Military-grade biometric security utilizing AES-256-GCM and Shamir’s Secret Sharing (SSS) for sensitive diagnostic log protection.
+</details>
 ---
 
 ### [ Technical Arsenal ]
