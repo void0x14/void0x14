@@ -34,7 +34,7 @@ Research into the deepest layers of processor execution and hardware interruptio
 </details>
 
 <details>
-<summary><b>3. Project: Google-Knockout (VM Deobfuscation)</b></summary>
+<summary><b>3. Project: <a href="https://github.com/void0x14/google-knockout">Google-Knockout (VM Deobfuscation)</b></summary>
 <br>
 Advanced analysis of client-side protection mechanisms and dynamic JavaScript virtual machines. **Language Agnostic / Target Defined.**
 
@@ -69,7 +69,7 @@ A browser architecture stripped of commercial telemetry, utilizing kernel-level 
 </details>
 
 <details>
-<summary><b>6. Project: Fettanego.net (Adversary Intelligence & Deception)</b></summary>
+<summary><b>6. Project: <a href="https://github.com/void0x14/fettanego.net">Fettanego.net (Adversary Intelligence & Deception)</b></summary>
 <br>
 An offensive deception environment designed to trap, analyze, and exploit the resources of automated botnets and human threat actors.
 
@@ -82,7 +82,7 @@ An offensive deception environment designed to trap, analyze, and exploit the re
 </details>
 
 <details>
-<summary><b>7. Project: Project-Oculus-OSS (Ophthalmic Hardware Liberation)</b></summary>
+<summary><b>7. Project: <a href="https://github.com/void0x14/project-Oculus-OSS">Project-Oculus-OSS (Ophthalmic Hardware Liberation)</b></summary>
 <br>
 A strategic reverse-engineering initiative focused on liberating corneal diagnostic data from closed-loop, proprietary medical hardware through advanced computer vision.
 
