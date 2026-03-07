@@ -106,7 +106,7 @@ An archival-grade video deduplication engine built to separate true duplicates f
     * **Visual Similarity Core:** Strict multi-point pHash comparison with average-distance and max-distance rejection rules.
     * **False Positive Hardening:** Match logic explicitly biased toward rejecting uncertain candidates rather than over-merging distinct footage.
     * **Operational Safety:** Reversible visual duplicate handling through trash-bin routing, broken-file quarantine, and resumable SQLite state tracking.
-
+</details>
 ---
 
 ### [ Technical Arsenal ]
