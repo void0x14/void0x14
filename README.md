@@ -102,10 +102,10 @@ An archival-grade video deduplication engine built to separate true duplicates f
 
 * **Public Scope:** Research and development of a safety-first duplicate detection system for video archives, covering exact matching, visual similarity analysis, and automated organization.
 * **Technical Depth:**
-* **Hash Pipeline:** SHA-256 indexing for exact duplicate elimination across large datasets.
-* **Visual Similarity Core:** Strict multi-point pHash comparison with average-distance and max-distance rejection rules.
-* **False Positive Hardening:** Match logic explicitly biased toward rejecting uncertain candidates rather than over-merging distinct footage.
-* **Operational Safety:** Reversible visual duplicate handling through trash-bin routing, broken-file quarantine, and resumable SQLite state tracking.
+    * **Hash Pipeline:** SHA-256 indexing for exact duplicate elimination across large datasets.
+    * **Visual Similarity Core:** Strict multi-point pHash comparison with average-distance and max-distance rejection rules.
+    * **False Positive Hardening:** Match logic explicitly biased toward rejecting uncertain candidates rather than over-merging distinct footage.
+    * **Operational Safety:** Reversible visual duplicate handling through trash-bin routing, broken-file quarantine, and resumable SQLite state tracking.
 
 ---
 
