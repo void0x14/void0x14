@@ -46,7 +46,7 @@ Advanced analysis of client-side protection mechanisms and dynamic JavaScript vi
 </details>
 
 <details>
-<summary><b>4. Project: Echo-Core (Surgical AI)</b></summary>
+<summary><b>4. Project: <a href="https://github.com/void0x14/echo-core">Echo-Core (Surgical AI)</b></summary>
 <br>
 Optimization techniques for running SOTA Large Language Models on constrained consumer hardware.
 
@@ -94,6 +94,19 @@ A strategic reverse-engineering initiative focused on liberating corneal diagnos
     * **Neural Diagnostic Intelligence:** Geometric deep learning architectures designed for early-stage Keratoconus detection and irregular surface mapping.
     * **Void-Protocol Integrity:** Military-grade biometric security utilizing AES-256-GCM and Shamir’s Secret Sharing (SSS) for sensitive diagnostic log protection.
 </details>
+
+<details>
+<summary><b>8. Project: <a href="https://github.com/void0x14/PROJECT_REFINERY">PROJECT_REFINERY (Video Deduplication Engine)</b></summary>
+<br>
+An archival-grade video deduplication engine built to separate true duplicates from near-matches without reckless file loss.
+
+* **Public Scope:** Research and development of a safety-first duplicate detection system for video archives, covering exact matching, visual similarity analysis, and automated organization.
+* **Technical Depth:**
+* **Hash Pipeline:** SHA-256 indexing for exact duplicate elimination across large datasets.
+* **Visual Similarity Core:** Strict multi-point pHash comparison with average-distance and max-distance rejection rules.
+* **False Positive Hardening:** Match logic explicitly biased toward rejecting uncertain candidates rather than over-merging distinct footage.
+* **Operational Safety:** Reversible visual duplicate handling through trash-bin routing, broken-file quarantine, and resumable SQLite state tracking.
+
 ---
 
 ### [ Technical Arsenal ]
