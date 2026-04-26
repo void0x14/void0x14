@@ -112,7 +112,7 @@ An archival-grade video deduplication engine built to separate true duplicates f
 ### [ Technical Arsenal ]
 
 **Core & Systems**
-* **Languages:** C, Rust (Memory Safety), x86_64 Assembly, Go (Concurrency), Node.js (Runtime Engines).
+* **Languages:** Zig,C, Rust (Memory Safety), x86_64 Assembly, Go (Concurrency).
 * **Kernel:** Linux From Scratch (LFS), eBPF (XDP), Custom IRQ Handlers, Ring-0/Ring-3 Interfacing.
 * **Optimization:** AVX-512 Intrinsics, SIMD, Manual Memory Paging (mmap), Zero-Copy Networking,RDMA.
 
